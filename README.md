@@ -1,2 +1,4 @@
-See fullstack React Node App deploy on Railway https://react-node-boiler-plate-production.up.railway.app/
-# -react-node-boiler-plate
+## react-node-expressjs-boiler-plate
+This is supporting code base for setting up a nodejs backend using express, connecting it to a react frontend and deploying it on railway
+See the full tutorial on [my blog](https://digitalyos.com/article/deploy-fullstack-app-heroku-alternative)
+
